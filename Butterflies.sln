@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butterflies", "Butterflies.csproj", "{9901349E-4CB3-8228-D798-68221EE88A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butterflies.Editor", "Butterflies.Editor.csproj", "{369C88B3-6704-24E3-4A52-E2AE0341251D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9901349E-4CB3-8228-D798-68221EE88A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9901349E-4CB3-8228-D798-68221EE88A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9901349E-4CB3-8228-D798-68221EE88A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9901349E-4CB3-8228-D798-68221EE88A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369C88B3-6704-24E3-4A52-E2AE0341251D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369C88B3-6704-24E3-4A52-E2AE0341251D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369C88B3-6704-24E3-4A52-E2AE0341251D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369C88B3-6704-24E3-4A52-E2AE0341251D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
