@@ -524,7 +524,7 @@ MeshRenderer:
   m_GameObject: {fileID: 1175343233832736}
   m_Enabled: 1
   m_CastShadows: 1
-  m_ReceiveShadows: 1
+  m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -820,14 +820,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Parent: {fileID: 0}
   Children:
+  - {fileID: 0}
   - {fileID: 114574536014268616}
+  - {fileID: 0}
   - {fileID: 114213443795211018}
+  - {fileID: 0}
   - {fileID: 114963473225347726}
+  - {fileID: 0}
   - {fileID: 114863011479895102}
+  - {fileID: 0}
   - {fileID: 114499962245267424}
+  - {fileID: 0}
   - {fileID: 114716360735137434}
   IsPassThrough: 0
-  ChildRowLength: 0
+  ChildRowLength: 3
   Highlight: {fileID: 114453724972178900}
   SelectableColliders: []
   DefaultSelectableIndex: 0
